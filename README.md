@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heyitsraman&label=Profile%20views&color=0e75b6&style=flat" alt="heyitsraman" /> </p>
 
-- 🔭 I’m currently pursuing my Masters in **VLSI and Embedded Systems**
+- 🔭 I’ve my Masters in **VLSI and Embedded Systems**
 
-- 👯 I’m looking to collaborate on **Digital & Analog Design Projects**
+- 👯 I’m looking to collaborate on **Digital Design Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyitsraman](https://github.com/heyitsraman)
 
